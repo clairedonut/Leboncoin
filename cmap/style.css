@@ -1,0 +1,13 @@
+#canvasMap{
+
+      position: absolute;
+        width : 300px;
+        height : 300px;
+		z-index: 50;
+}
+
+
+#legende {
+  display:none;
+
+}

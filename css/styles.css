@@ -1,0 +1,55 @@
+h1 {
+  font-size: 14px;
+  font-family: "OpenSansSemiBold",sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.4;
+  letter-spacing: 0.5px;
+}
+
+h1 span {
+  color: #f56b2a;
+}
+
+nav a{
+  font-family: "OpenSansSemiBold",sans-serif;
+  font-size: 13px;
+  color: white;
+  text-transform: uppercase;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+select {
+  background-color: white!important;
+}
+
+section ul li a {
+  color: #369;
+  font-family: "OpenSansSemiBold",sans-serif;
+  line-height: 1.5;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+section ul li a:hover {
+  color: #f56b2a;
+  text-decoration: none;
+}
+
+.map {
+  height: 600px;
+  width: 100%;
+
+  background-image: url("images/france.png");
+  background-size: cover;
+  position: top center;
+  border: 1px solid black;
+
+}
+
+area:hover {
+  border: 1px solid #1E357D;
+}
