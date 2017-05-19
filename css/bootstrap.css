@@ -6,7 +6,7 @@
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: "OpenSans",sans-serif !important;
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -137,7 +137,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: "OpenSans",sans-serif;
   font-size: 100%;
   line-height: 1.15;
   margin: 0;
@@ -703,7 +703,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: "OpenSans",sans-serif;
 }
 
 code {
@@ -2711,7 +2711,11 @@ fieldset[disabled] a.btn {
 .btn-secondary {
   color: #292b2c;
   background-color: #fff;
-  border-color: #ccc;
+  /*border-color: #ccc;*/
+  text-transform: uppercase;
+  color: #f56b2a;
+  font-size: 14px;
+
 }
 
 .btn-secondary:hover {
