@@ -1,11 +1,16 @@
-# Projet semaine 9 | Leboncoin.fr
+# Leboncoin.fr
 
-## Objectif
+## Description of project
 
-Reproduction de la page d'accueil du site Leboncoin.fr
+Reproduction of the home page Leboncoin.fr (see screencaptures)
 
-## Critères
+## Key elements
 
-* Le site devra être responsive et mobile first
-* Pour la map, l'effet clickable doit être fait seulement pour deux régions, Nord-Pas-De-Calais et Picardie
-* Wireframes
+* Uses Bootstrap v4 
+* Responsive site and mobile-first
+* Includes wireframes/mockups of the project
+* Clickable map effect
+
+Screencapture leboncoin.fr (tablet format) : 
+
+
