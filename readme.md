@@ -11,6 +11,8 @@ Reproduction of the home page Leboncoin.fr (see screencaptures)
 * Includes wireframes/mockups of the project
 * Clickable map effect
 
-Screencapture leboncoin.fr (tablet format) : 
+Screencapture leboncoin.fr (desktop format) :
+
+![leboncoin](https://github.com/clairedonut/Leboncoin/blob/master/screencaptures-leboncoin/leboncoin-screencapture-desktop.png) 
 
 
